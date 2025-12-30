@@ -1,2 +1,3 @@
-name='Sarosh'
-print('Hello' ,name);
+Fname='Sarosh'
+Lname='Khan'
+print('Hello' ,Fname ,Lname);
