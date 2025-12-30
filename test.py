@@ -1,2 +1,2 @@
 name='Sarosh'
-print('Hello' name);
+print('Hello' ,name);
