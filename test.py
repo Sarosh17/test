@@ -1,1 +1,2 @@
-print('Hello Sarosh');
+name='Sarosh'
+print('Hello' name);
