@@ -1,4 +1,4 @@
 From python:3.11
 WORKDIR /app
-COPY FROM .
-RUN (python
+COPY . .
+RUN python  test.py
